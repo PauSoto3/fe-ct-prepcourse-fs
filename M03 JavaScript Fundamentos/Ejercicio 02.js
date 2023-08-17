@@ -4,7 +4,10 @@
 function devolverString(string) {
    // Debe retornar un string.
    // Tu código:
+   return string;
 }
+
+console.log(devolverString('Fatima'))
 
 // ⛔️ "X" e "Y" son números.
 
